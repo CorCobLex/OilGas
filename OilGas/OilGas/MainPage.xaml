@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"  ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:oilGas="clr-namespace:OilGas;assembly=OilGas"
+             x:Class="OilGas.MainPage"
+             x:DataType="oilGas:MainViewModel">
+    <StackLayout>
+        <Entry Text="{Binding InventoryNum, Mode=TwoWay}"/>
+        <Frame>
+            <StackLayout Orientation="Vertical">
+                <Label Text="{Binding SelectedName}"/>
+                <Label Text="{Binding SelectedInventoryNumber}"/>
+                <Label Text="{Binding SelectedCode}"/>
+                <Label Text="{Binding SelectedId}"/>
+            </StackLayout>
+        </Frame>
+        <Button CornerRadius="15" Text="+" Command="{Binding OpenNewElementFormCommand}"/>
+    </StackLayout>
+
+</ContentPage>

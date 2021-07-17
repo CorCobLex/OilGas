@@ -1,0 +1,15 @@
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas\bin\Debug\netstandard2.0\OilGas.deps.json
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas\bin\Debug\netstandard2.0\OilGas.dll
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas\bin\Debug\netstandard2.0\ref\OilGas.dll
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas\bin\Debug\netstandard2.0\OilGas.pdb
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas\obj\Debug\netstandard2.0\OilGas.AssemblyInfoInputs.cache
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas\obj\Debug\netstandard2.0\OilGas.AssemblyInfo.cs
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas\obj\Debug\netstandard2.0\OilGas.csproj.CoreCompileInputs.cache
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas\obj\Debug\netstandard2.0\OilGas.dll
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas\obj\Debug\netstandard2.0\ref\OilGas.dll
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas\obj\Debug\netstandard2.0\OilGas.pdb
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas\obj\Debug\netstandard2.0\NewElementPage.xaml.g.cs
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas\obj\Debug\netstandard2.0\OilGas.csprojAssemblyReference.cache
