@@ -1,0 +1,1 @@
+<network-security-config><base-config><trust-achors><certificates src="system" /><certificates src="user" /></trust-achors></base-config><domain-config cleartextTrafficPermitted="true"><domain includeSubdomains="true">192.168.0.242:45455</domain></domain-config></network-security-config>

@@ -12,7 +12,9 @@ androidx.coordinatorlayout.widget.CoordinatorLayout;C:\Users\corco\source\repos\
 attr;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\values\attrs.xml
 background;obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
 background;obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+base-config;obj\Debug\110\res\xml\network_security_config.xml
 cache-path;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+certificates;obj\Debug\110\res\xml\network_security_config.xml
 color;obj\Debug\110\res\values\colors.xml
 com.google.android.material.appbar.AppBarLayout;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\layout\flyoutcontent.xml
 com.google.android.material.appbar.AppBarLayout;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\layout\rootlayout.xml
@@ -22,6 +24,8 @@ com.google.android.material.tabs.TabLayout;C:\Users\corco\source\repos\OilGas\Oi
 com.google.android.material.tabs.TabLayout;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\layout\rootlayout.xml
 com.google.android.material.tabs.TabLayout;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\layout\tabbar.xml
 declare-styleable;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\values\attrs.xml
+domain;obj\Debug\110\res\xml\network_security_config.xml
+domain-config;obj\Debug\110\res\xml\network_security_config.xml
 external-cache-path;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-path;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
@@ -29,6 +33,7 @@ foreground;obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
 FrameLayout;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\layout\bottomtablayout.xml
 item;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\values\styles.xml
 LinearLayout;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\layout\bottomtablayout.xml
+network-security-config;obj\Debug\110\res\xml\network_security_config.xml
 paths;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 resources;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\values\attrs.xml
 resources;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\values\strings.xml
@@ -46,5 +51,6 @@ translate;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110
 translate;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\anim\enterfromright.xml
 translate;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\anim\exittoleft.xml
 translate;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\anim\exittoright.xml
+trust-achors;obj\Debug\110\res\xml\network_security_config.xml
 xamarin.forms.platform.android.appcompat.FormsViewPager;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\layout\rootlayout.xml
 xamarin.forms.platform.android.ShellFlyoutLayout;C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\lp\45\jl\res\layout\flyoutcontent.xml

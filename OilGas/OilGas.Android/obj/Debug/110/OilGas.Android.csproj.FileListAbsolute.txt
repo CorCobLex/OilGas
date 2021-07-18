@@ -575,3 +575,4 @@ C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\stamp\_Ge
 C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\android\assets\RestSharp.dll
+C:\Users\corco\source\repos\OilGas\OilGas\OilGas.Android\obj\Debug\110\res\xml\network_security_config.xml

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.Diagnostics;
 using System.Net.Http;
@@ -101,16 +102,33 @@ namespace OilGas
 
         }
 
-        private async void FindElement()
+        public async void FindElement()
         {
-            var client = new RestClient("https://10.0.2.2/InventNumber?inventNumber=5");
-            //var request = new RestRequest("/InventNumber?inventNumber=5");
-            var request = new RestRequest();
-            request.AddHeader("Content-Type", "application/json");
-            request.AddHeader("Accept", "text/plain");
+            
+            var keyvalues = new List<KeyValuePair<string, string>>
+            {
 
-            var responce = client.GetAsync<InventNumber>(request).GetAwaiter().GetResult();
-            Debug.WriteLine(responce);
+            };
+            var request = new HttpRequestMessage(HttpMethod.Get, "https://192.168.0.242:45456/InventNumber?inventNumber=5");
+            request.Content = new FormUrlEncodedContent(keyvalues);
+
+            var client = new HttpClient();
+
+           // var num = GetSertificate();
+            var response = await client.GetAsync("https://192.168.0.242:45456/InventNumber?inventNumber=5");
+            Debug.WriteLine(response.Content);
+
+
+            /*
+                        var request = new RestRequest();
+
+                       // var response = client.Get(request);
+
+
+
+                        var responce = await client.GetAsync<InventNumber>(request);
+                        Debug.WriteLine(responce);*/
+
         }
 
         public Command OpenNewElementFormCommand => new Command(() =>
